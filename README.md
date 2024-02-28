@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ThatOnePersonxoxo
 - 👀 I’m interested in drawing anime, watching anime, Python and astrophysics
-- 🌱 I’m currently learning basic Python
+- 🌱 I’m currently learning ADVANCED Python and DSA
 - 💞️ I’m looking to collaborate on Gmail
 
 <!---
